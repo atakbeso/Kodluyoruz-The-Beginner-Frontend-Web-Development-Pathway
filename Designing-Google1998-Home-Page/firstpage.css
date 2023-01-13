@@ -1,0 +1,69 @@
+
+/* Logo resminin class'ı */
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 351px;
+    max-height: 113%;
+    
+}
+
+.orta{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    background-color:#EEEEEE;
+}   
+
+
+.altbolum{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+.bolum1{
+    text-align: center;
+    background-color: #7EE5DA;
+    float: left;
+    width: 37%;
+    height: 104px;
+    
+}
+
+.bolum2{
+    text-align: center;
+    background-color: #70CCC2;
+    width: 26%;
+    height: 104px;
+    float: left;
+    margin: auto;
+
+}
+
+.bolum3{
+    text-align: center;
+    background-color: #62B3AA;
+    float: left;
+    width: 37%;
+    margin: auto;
+    height: 104px;
+}
+  
+
+.updates{
+    font-size: 12px;
+    text-align: center;
+}
+.copyright{
+    width: 90%;
+    height: 104px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    height: 104px;
+}
+

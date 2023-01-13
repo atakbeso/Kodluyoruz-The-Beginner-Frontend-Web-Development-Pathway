@@ -1,0 +1,45 @@
+/* Css dosyası oluşturuldu */
+
+body{
+    background-color: rgb(5, 5, 5);
+    text-align: center;
+}
+
+h1{
+    font-size: 45px;
+    text-align: center;
+    text-shadow: 2px  2px #ffffff;
+    color: rgb(252, 34, 34);
+}
+
+h3 {
+    color: rgb(255, 0, 0);
+}
+h2{
+    color: rgb(255, 0, 0);
+}
+
+p{
+    color: rgba(255, 255, 255, 0.63);
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+a {
+    text-align: center;
+    color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+div{
+    margin: auto;
+    width: 30%;
+    border: 1px solid #ff2929;
+    padding: 10px;
+}
+article{
+    text-align: center;
+    color: azure;
+}
